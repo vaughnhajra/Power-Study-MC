@@ -40,6 +40,3 @@
 - Kruskal-Wallis Test
 - Power comparison between ANOVA and Kruskal-Wallis
 - Preference based on scenarios and data characteristics
-
-### Thank You!
-Any Questions?
